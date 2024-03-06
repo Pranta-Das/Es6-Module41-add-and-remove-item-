@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "color": "Space Gray",
+      "price": 999
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "color": "Phantom Black",
+      "price": 899
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "color": "Clearly White",
+      "price": 799
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "color": "Mirror Black",
+      "price": 699
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "color": "Electric Blue",
+      "price": 599
+    }
+  ]
+  
